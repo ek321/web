@@ -1,0 +1,19 @@
+body {
+  background-color: bisque;
+  }
+
+h1 {
+  font-weight: bold;
+  font-family: papyrus;
+}
+
+h2 {
+  font-weight: italic;
+  font-family: "Palatino Linotype", serif;
+}
+
+p {
+  color: plum;
+  border: thick double darkmagenta;
+  background-color: aquamarine;
+}
