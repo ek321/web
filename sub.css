@@ -3,5 +3,6 @@ body {
   }
 
 h1 {
-  font: 1.2em "Times New Romans";
+  font-weight: bold;
+  font-family: Times, papyrus;
 }
