@@ -18,7 +18,8 @@ body {
 
 h1 {
   font-family: "Lucida Sans", sans-serif;
-  border: solid, red;
+  border: solid;
+  border-color: #ff0000;
 }
 
 img {
