@@ -3,7 +3,7 @@ ul {
 }
 
 .list {
-  display: table;
+  display: inline, table;
 }
 
 li {
