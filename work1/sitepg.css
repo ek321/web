@@ -11,9 +11,21 @@ li {
 }
 
 body {
- background-color: #ffebcd; 
+ background-color: #ffebcd;
+ text-align: center;
 }
 
 h1 {
-  
+  font-family: "Lucida Sans", sans-serif;
+  border: solid, red;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h3 {
+  font-family: papyrus, "Apple Chancery", sans-serif;
+  font-weight: bold;
 }
