@@ -3,11 +3,11 @@ ul {
 }
 
 .list {
-  display: inline, table;
+  text-align: center;
+  display: inline;
 }
 
 li {
-  text-align: center;
  padding: 10px; 
 }
 
