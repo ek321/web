@@ -4,6 +4,7 @@ ul {
 
 .list {
   text-align: center;
+  border: dashed blue
 }
 
 li {
@@ -31,4 +32,13 @@ img {
 h3 {
   font-family: papyrus, "Apple Chancery", sans-serif;
   font-weight: bold;
+}
+
+h2 {
+ font-family: "Lucida Bright", Palatino, serif;
+  text-decoration: underline;
+}
+
+p {
+ font-family: "Lucida Bright", Palatino, serif;
 }
