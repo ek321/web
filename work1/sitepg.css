@@ -12,7 +12,8 @@ li {
 }
 
 body {
-  border: double #008B8B;
+  border: double;
+  border-color: #008B8B;
  background-color: #ffebcd;
  text-align: center;
 }
@@ -30,7 +31,7 @@ img {
 }
 
 h3 {
-  font-family: papyrus, "Apple Chancery", sans-serif;
+  font-family: Papyrus, "Apple Chancery", sans-serif;
   font-weight: bold;
 }
 
@@ -41,5 +42,6 @@ h2 {
 
 p {
  font-family: "Lucida Bright", Palatino, serif;
-  border: dashed #90EE90;
+  border: dashed;
+  border-color: #90EE90;
 }
