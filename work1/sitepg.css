@@ -13,6 +13,7 @@ li {
 }
 
 body {
+  border: double;
  background-color: #ffebcd;
  text-align: center;
 }
