@@ -1,1 +1,16 @@
+ul {
+  display: inline;
+  list-style-type: none;
+}
 
+li {
+ padding: 10px; 
+}
+
+body {
+ background-color: #deb887; 
+}
+
+h1 {
+  
+}
