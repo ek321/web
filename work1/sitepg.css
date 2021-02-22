@@ -47,3 +47,7 @@ p {
   border-color: #90EE90;
   border-radius: 5px;
 }
+
+a {
+  font: italic;
+}
