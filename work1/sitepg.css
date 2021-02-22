@@ -21,8 +21,9 @@ body {
 h1 {
   font-family: "Lucida Sans", sans-serif;
   border: solid;
-  border-color: #800000;
+  border-color: 6e3327;
   display: inline;
+  margin-top: 5px;
 }
 
 img {
