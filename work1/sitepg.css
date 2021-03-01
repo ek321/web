@@ -2,13 +2,15 @@ ul {
   list-style-type: none;
 }
 
-.list {
-  text-align: center;
+mark {
+  color: #10256e;
+  background-color: #bc5d6f;
 }
 
-li {
+nav {
  padding: 10px; 
  display: inline;
+ text-align: center;
 }
 
 body {
@@ -30,6 +32,7 @@ img {
   margin-left: auto;
   margin-right: auto;
   padding: 15px;
+  float: left;
 }
 
 h3 {
