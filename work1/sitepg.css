@@ -7,9 +7,12 @@ mark {
   background-color: #bc5d6f;
 }
 
+li {
+  display: inline;
+  padding: 10px;
+}
+
 nav {
- padding: 10px; 
- display: inline;
  text-align: center;
 }
 
@@ -51,4 +54,8 @@ p {
   border-color: #90EE90;
   border-radius: 5px;
   display: block;
+}
+
+a {
+  margin-bottom: 10px;
 }
