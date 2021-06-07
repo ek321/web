@@ -49,6 +49,11 @@ h2 {
   text-decoration: underline;
 }
 
+h6 {
+ font-family: serif;
+ text-align: left;
+}
+
 p {
  font-family: "Lucida Bright", Palatino, serif;
 /*  border: dashed;
