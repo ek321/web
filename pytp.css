@@ -3,6 +3,8 @@ ul {
 }
 
 li {
+ font-family: monaco, Palatino, serif;
+ margin-right: 50px;
 }
 
 body {
