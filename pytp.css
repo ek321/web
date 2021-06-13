@@ -1,11 +1,10 @@
 ul {
-	list-style: none;
+ list-style-type: circle;
 }
 
 li {
  font-family: monaco, Palatino, serif;
  margin-right: 50px;
- list-style-type: circle;
 }
 
 body {
