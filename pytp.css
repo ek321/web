@@ -14,17 +14,17 @@ body {
 }
 
 h1 {
-  font-family: "Lucida Sans", monospace;
+  font-family: trattatello, fantasy, serif;
   margin-top: 5px;
 }
 
 h3 {
-  font-family: "Lucida Bright", sans-serif;
+  font-family: trattatello, fantasy, serif;
   font-weight: bold;
 }
 
 h2 {
- font-family: "Lucida Bright", Palatino, serif;
+ font-family: trattatello, fantasy, serif;
  text-decoration: underline;
 }
 
