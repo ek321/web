@@ -14,18 +14,21 @@ body {
 }
 
 h1 {
-  font-family: trattatello, fantasy, serif;
+  font-family: lucida handwriting, trattatello, fantasy, serif;
   margin-top: 5px;
+  margin-right: 50px;
 }
 
 h3 {
-  font-family: trattatello, fantasy, serif;
+  font-family: lucida handwriting, trattatello, fantasy, serif;
   font-weight: bold;
+  margin-right: 50px;
 }
 
 h2 {
- font-family: trattatello, fantasy, serif;
+ font-family: lucida handwriting, trattatello, fantasy, serif;
  text-decoration: underline;
+ margin-right: 50px;
 }
 
 p {
