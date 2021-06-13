@@ -8,9 +8,9 @@ li {
 body {
  border: double;
  border-color: white;
- background-color: black;
+ background-color: #DDBCF2;
  text-align: center;
- color: white;
+ color: black;
 }
 
 h1 {
@@ -29,7 +29,7 @@ h2 {
 }
 
 p {
- font-family: "Lucida Bright", Palatino, serif;
+ font-family: monaco, Palatino, serif;
 }
 
 a {
